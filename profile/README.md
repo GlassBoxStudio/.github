@@ -8,5 +8,5 @@ Work spans data infrastructure, distributed systems, and developer tooling — f
 
 Built and maintained by [Sepuri Sai Krishna](https://github.com/SEPURI-SAI-KRISHNA), a data engineer working across Spark, Flink, Kafka, Cassandra, Iceberg, Trino, and ClickHouse.
 
-- Portfolio: https://sepuri-sai-krishna.pages.dev
+- Portfolio: https://www.sepurisaikrishna.com
 - LinkedIn: [sepuri-saikrishna-b9555b278](https://linkedin.com/in/sepuri-saikrishna-b9555b278)
